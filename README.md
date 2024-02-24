@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Adisaputra Zidha
+<h1 align="center"> Diabetes Prediction </h1>
 
 ## Domain Proyek
 Diabetes Mellitus merupakan salah satu masalah kesehatan global yang serius, dengan jumlah penderita yang terus meningkat setiap tahunnya. Menurut International Diabetes Federation (IDF), pada tahun 2019 saja, sekitar 537 juta orang di seluruh dunia didiagnosis menderita diabetes dengan rentang umur 20–79 tahun [1]. Angka ini diperkirakan akan terus meningkat menjadi 700 juta pada tahun 2045, jika tidak ada tindakan preventif yang dilakukan. Dampak yang ditimbulkan oleh diabetes juga sangat signifikan, termasuk komplikasi serius seperti penyakit jantung, stroke, gagal ginjal, gangguan penglihatan, dan amputasi [2]. Namun, sebagian besar kasus diabetes dapat dicegah atau dikendalikan dengan deteksi dini dan adopsi gaya hidup sehat.
