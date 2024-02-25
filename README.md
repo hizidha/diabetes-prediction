@@ -226,7 +226,8 @@ Setelah melewati berbagai tahapan yang telah dipaparkan sebelumnya, tahap ini ak
 
    ![akurasi](https://github.com/hizidha/diabetes-prediction/blob/main/assets/akurasi.png?raw=true)
 
-   accuracy = \frac{TP + TN}{TP + TN + FP + FN}
+   accuracy = (TP + TN) / (TP + TN + FP + FN)
+   
    *Gambar 9. Rumus metrik evaluasi `accuracy`*
    
 3. Precision/Presisi
