@@ -225,8 +225,6 @@ Setelah melewati berbagai tahapan yang telah dipaparkan sebelumnya, tahap ini ak
    Akurasi mengukur seberapa banyak prediksi model yang benar dari total prediksi yang dilakukan. Ini adalah metrik yang umum digunakan dalam klasifikasi dan memberikan pemahaman tentang seberapa baik model dapat mengklasifikasikan data dengan benar. Akurasi dihitung dengan membagi jumlah prediksi yang benar dengan total jumlah prediksi.
 
    ![akurasi](https://github.com/hizidha/diabetes-prediction/blob/main/assets/akurasi.png?raw=true)
-
-   accuracy = (TP + TN) / (TP + TN + FP + FN)
    
    *Gambar 9. Rumus metrik evaluasi `accuracy`*
    
