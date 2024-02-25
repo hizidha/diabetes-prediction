@@ -225,10 +225,11 @@ Setelah melewati berbagai tahapan yang telah dipaparkan sebelumnya, tahap ini ak
    Akurasi mengukur seberapa banyak prediksi model yang benar dari total prediksi yang dilakukan. Ini adalah metrik yang umum digunakan dalam klasifikasi dan memberikan pemahaman tentang seberapa baik model dapat mengklasifikasikan data dengan benar. Akurasi dihitung dengan membagi jumlah prediksi yang benar dengan total jumlah prediksi.
 
    ![akurasi](https://github.com/hizidha/diabetes-prediction/blob/main/assets/akurasi.png?raw=true)
+   $ \text{Akurasi} = \frac{TP + TN}{TP + TN + FP + FN} $
 
    *Gambar 9. Rumus metrik evaluasi `accuracy`*
    
-2. Precision/Presisi
+3. Precision/Presisi
 
    Presisi mengukur seberapa banyak dari prediksi positif yang sebenarnya benar. Ini memberikan pemahaman tentang seberapa baik model dalam menghindari memberikan hasil positif palsu. Presisi dihitung dengan membagi jumlah prediksi positif yang benar dengan total prediksi positif yang dilakukan.
 
@@ -236,7 +237,7 @@ Setelah melewati berbagai tahapan yang telah dipaparkan sebelumnya, tahap ini ak
 
    *Gambar 10. Rumus metrik evaluasi `precision`*
 
-3. Recall
+4. Recall
    
    Recall, juga dikenal sebagai sensitivitas, mengukur seberapa banyak dari kelas yang sebenarnya positif yang telah diidentifikasi dengan benar oleh model. Ini memberikan pemahaman tentang seberapa baik model dapat mengenali semua contoh yang positif.   
 
@@ -244,7 +245,7 @@ Setelah melewati berbagai tahapan yang telah dipaparkan sebelumnya, tahap ini ak
 
    *Gambar 11. Rumus metrik evaluasi `recall`*
    
-4. F1-Score
+5. F1-Score
    
    F1-score adalah ukuran yang menggabungkan presisi dan recall menjadi satu angka tunggal. Ini memberikan pemahaman tentang keseimbangan antara presisi dan recall dari model. F1-score adalah rata-rata harmonis dari presisi dan recall, dan memberikan bobot yang sama terhadap keduanya.   
 
